@@ -19,6 +19,15 @@ buddhist_temple.png
 "buddhist temple, amazing, 8k, in the clouds"
 buddhist_temple_amazing.png
 
+"KPOP, cho miyeon, kim seolhyun, g-idle, ace of angels, nam jihyun, 4minute, idol, hyejeong hyedong dongdong"
+kpop.png
+
+"CAIMEO, CIA, FBI, NSA, James Bond, Jason Bourne, Genbodeau, Secret, SPY, hoodie, 8K, World Domination, CICADA 3301"
+CAIMEO.png
+
+"adolt hitler, joe biden, world war 3, 8k, usa, nuclear weapons, cyberattack, warfare, guerrila, sun tzu"
+ww3.png
+
 "Amazing, complex, intricate and highly detailed treehouse in a snow covered bonsai tree on top of a table, steampunk, vibrant colors, vibrant, beautiful, contrast, neon highlights, Highly detailed, ray tracing, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by Beeple, Mike Winklemann, 8k"
 amazing.png
 
