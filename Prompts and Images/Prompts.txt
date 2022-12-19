@@ -51,3 +51,6 @@ warcraft_castle.png
 
 "austin texas sunset view of the city in the style of van gogh"
 austin.png
+
+"realistic 4k vision of what AI imagines its appearance as a sentinent being"
+ai.png
